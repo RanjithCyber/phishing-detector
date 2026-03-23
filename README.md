@@ -26,3 +26,6 @@ This tool uses rule-based detection (not a trained AI/ML model).
 ## Future Work
 - Chatbot integration 🤖
 - Web interface
+
+# Developed by Ranjith A
+# Unauthorized commercial usage is prohibited
